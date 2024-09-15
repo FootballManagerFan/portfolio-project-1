@@ -1,1 +1,1 @@
-Website constantly being updated, planning on fixing certain mobile formats and adding new CSS/Styling features.
+Website constantly being updated, planning on fixing mobile formatting and adding new CSS/Styling features.
